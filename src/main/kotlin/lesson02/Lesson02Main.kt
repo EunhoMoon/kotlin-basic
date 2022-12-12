@@ -18,7 +18,7 @@ fun main() {
 
     // kotlin에서 java객체를 사용할 때 Annotation을 통해 처리할 수 있다.(@Nullable, @NotNull)
     // Annotation을 사용하지 않을 경우 validation 체크를 해야 runtime exception이 발생하지 않는다.
-    val person = Person("공부하는 개발자")
+    val person = Person("공부하는 개발자", 20)
     startsWith2(person.name)
 }
 
