@@ -26,6 +26,7 @@ fun main() {
 
     val str1 = "ABC"
     println(str1[0])    // java에서의 str1.charAt(0)
+
 }
 
 fun printAgeIfPerson(obj: Any) {
