@@ -1,4 +1,4 @@
-package lesson05
+package sec02.lesson05
 
 fun validateScoreIsNotNegative(score: Int) {
     if (score !in 0..100) {

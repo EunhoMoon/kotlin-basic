@@ -1,4 +1,4 @@
-package lesson08
+package sec02.lesson08
 
 fun main() {
     repeat("Hello World", useNewLine = false)   // named argument

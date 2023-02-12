@@ -1,4 +1,4 @@
-package lesson06
+package sec02.lesson06
 
 fun main() {
     val numbers = listOf(1L, 2L, 3L)

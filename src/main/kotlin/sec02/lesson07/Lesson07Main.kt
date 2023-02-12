@@ -1,4 +1,4 @@
-package lesson07
+package sec02.lesson07
 
 import java.lang.NumberFormatException
 

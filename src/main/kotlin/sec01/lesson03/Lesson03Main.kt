@@ -1,4 +1,4 @@
-package lesson03
+package sec01.lesson03
 
 import `object`.Person
 

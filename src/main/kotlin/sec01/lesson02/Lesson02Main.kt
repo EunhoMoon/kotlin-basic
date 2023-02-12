@@ -1,4 +1,4 @@
-package lesson02
+package sec01.lesson02
 
 import `object`.Person
 import java.lang.IllegalArgumentException

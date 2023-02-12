@@ -1,4 +1,4 @@
-package lesson04
+package sec01.lesson04
 
 data class Money(
     val amount: Long

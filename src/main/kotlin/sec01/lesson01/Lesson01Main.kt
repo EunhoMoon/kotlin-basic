@@ -1,4 +1,4 @@
-package lesson01
+package sec01.lesson01
 
 fun main() {
 
