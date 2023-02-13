@@ -12,9 +12,9 @@ class Person(name: String, var age: Int) {  // 주 생성자, 반드시 존재�
         }
     }
 
-    fun isAdult(): Boolean {
-        return this.age >= 20
-    }
+//    fun isAdult(): Boolean {
+//        return this.age >= 20
+//    }
 
     val isAdult: Boolean
         get() = this.age >= 20
