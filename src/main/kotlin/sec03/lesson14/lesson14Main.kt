@@ -33,5 +33,7 @@ sealed class HyundaiCar(
 )
 
 class Avante : HyundaiCar("아반떼", 1_000L)
+
 class Sonata : HyundaiCar("소나타", 2_000L)
+
 class Grandeur : HyundaiCar("그랜저", 3_000L)
